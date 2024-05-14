@@ -22,5 +22,10 @@ class mahasiswa
 
 int mahasiswa::setID()
 {
-    id = ++nim
+    id = ++nim;
+}
+
+void mahasiswa::printAll()
+{
+    
 }
