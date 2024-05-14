@@ -22,5 +22,5 @@ class mahasiswa
 
 int mahasiswa::setID()
 {
-    
+    id = ++nim
 }
