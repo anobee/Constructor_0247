@@ -15,7 +15,7 @@ class mahasiswa
         mahasiswa (string pnama)
         {
             nama = pnama
-            setID
+            setID();
         }
 
 }
